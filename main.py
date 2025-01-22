@@ -76,7 +76,7 @@
 
 
 from bdd_processor import process_bdd
-from html_processor import process_html
+from code_processor import process_html
 from mapping import map_bdd_to_html
 
 def main():
